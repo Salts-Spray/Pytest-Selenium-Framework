@@ -38,7 +38,7 @@ How to Use:
 
 2. Run Specific Test Module:
 
-   pytest tests/test_forms.py
+   pytest -m smoke
 
 3. Generate HTML Report:
 
